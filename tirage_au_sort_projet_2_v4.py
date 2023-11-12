@@ -7,6 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1VJk-DYUDmhoHrCjos2e5TxdQz_Ai4Eah
 """
 
+# Tirage au sort pour le projet 2 de 14 personnes dont 4 têtes de séries #
+# Ce tirage prend en compte les précédents groupes du projet 1 #
+# Le résultat voulu : 2 groupes de 4 personnes et 2 groupes de 3 personnes #
+# Contrainte : Aucun des participants ne doit avoir travaillé ensemble avant #
+# Période conception : octobre 2023 #
+
 !pip install faker
 !pip install iteration_utilities
 
